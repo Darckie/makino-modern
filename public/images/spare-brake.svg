@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#F1F5F9"/>
+  <rect x="40" y="40" width="1120" height="820" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="600" cy="460" r="242" stroke="#D8E2EE" stroke-width="50"/>
+  <circle cx="600" cy="460" r="194" stroke="#7C8796" stroke-width="16" stroke-dasharray="18 24"/>
+  <circle cx="600" cy="460" r="96" fill="#121821"/>
+  <circle cx="600" cy="460" r="28" fill="#F8FAFC"/>
+  <path d="M751 310C828.32 310 891 372.68 891 450C891 527.32 828.32 590 751 590H708V310H751Z" fill="url(#paint1_linear)"/>
+  <rect x="140" y="138" width="250" height="100" rx="22" fill="#F8FAFC" fill-opacity="0.12" stroke="#F8FAFC" stroke-opacity="0.2"/>
+  <text x="177" y="198" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="28" font-weight="700">Brake Disc</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="78" y1="93" x2="1119" y2="832" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11161D"/>
+      <stop offset="1" stop-color="#333D4D"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="708" y1="310" x2="900" y2="586" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EF4444"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>
