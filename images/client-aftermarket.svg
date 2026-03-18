@@ -1,0 +1,14 @@
+<svg width="400" height="280" viewBox="0 0 400 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="280" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="56" y="58" width="76" height="76" rx="20" fill="#E5E7EB"/>
+  <rect x="158" y="70" width="166" height="18" rx="9" fill="#F8FAFC"/>
+  <rect x="158" y="102" width="136" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="52" y="164" width="296" height="62" rx="18" fill="#F8FAFC" fill-opacity="0.1" stroke="#F8FAFC" stroke-opacity="0.18"/>
+  <text x="76" y="202" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Aftermarket</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="33" y1="16" x2="362" y2="271" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1620"/>
+      <stop offset="1" stop-color="#3B4554"/>
+    </linearGradient>
+  </defs>
+</svg>

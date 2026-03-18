@@ -1,0 +1,14 @@
+<svg width="400" height="280" viewBox="0 0 400 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="280" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="84" cy="86" r="34" fill="#F59E0B"/>
+  <rect x="138" y="68" width="168" height="18" rx="9" fill="#F8FAFC"/>
+  <rect x="138" y="100" width="120" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="52" y="164" width="296" height="62" rx="18" fill="#F8FAFC" fill-opacity="0.1" stroke="#F8FAFC" stroke-opacity="0.18"/>
+  <text x="76" y="202" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">OEM Mobility</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="24" y1="12" x2="367" y2="269" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11161D"/>
+      <stop offset="1" stop-color="#2E3A49"/>
+    </linearGradient>
+  </defs>
+</svg>
